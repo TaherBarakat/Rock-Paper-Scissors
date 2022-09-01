@@ -8,13 +8,13 @@ header {
    /*   display: flex; */
    /* padding: 0rem; */
    text-align: center;
-   background-color: aqua;
+   background-color: white;
    font-size: larger;
 }
 #main {
    padding: 0rem;
    height: 80vh;
-   background-color: aquamarine;
+   background-color: white;
    display: flex;
    flex-direction: column;
    align-items: center;
