@@ -21,7 +21,7 @@ header {
    justify-content: space-around;
 }
 #results {
-   background-color: brown;
+   background-color: white;
    padding: 3rem;
    font-size: 2rem;
    display: flex;
